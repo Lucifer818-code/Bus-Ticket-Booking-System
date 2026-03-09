@@ -3,7 +3,7 @@ from passengerinfo import PassengerRegistration
 from ticketshow import TicketShow
 
 def run():
-    print("Welcome To Ezhil Bus Travel System")
+    print("Welcome To Ezhil Bus Travels")
     ad = Admin()
     
     while True:
